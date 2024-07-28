@@ -22,7 +22,7 @@ export default async function LibraryPage() {
       <div className="list_library col-10 mx-auto justify-content-center">
         {libraryData.map((item, index) => {
           return (
-            <div className="item_library">
+            <div className="item_library" key={index}>
               <img
                 src={"https://api-pages.vercel.app/" + item.src}
                 className="img_library"

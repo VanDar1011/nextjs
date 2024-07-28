@@ -7,7 +7,7 @@ export default function FooterPage() {
       <hr className="my-4"></hr>
       <div className="footer mt-2 p-3">
         <div className="col-10 d-flex mx-auto">
-          <div className="col-4">
+          <div className="col-4 px-4">
             <h2 className="title_footer text-2xl fw-bold">
               {footer.title.name}
             </h2>

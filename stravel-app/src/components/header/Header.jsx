@@ -10,7 +10,7 @@ export default function Header() {
         <div className="logo_name">
           <Link href="/">
             <span className="text-2xl font-bold text-white">
-              <span className="text-amber-400">Dat's</span>
+              <span className="text-amber-400">Dat&apos;s</span>
               TRAVEL
             </span>
           </Link>

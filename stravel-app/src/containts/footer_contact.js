@@ -1,8 +1,8 @@
 export const footer = {
   title: {
-    name: "Dat'sTravel",
+    name: "Dat'sTRAVEL",
     description:
-      "Trải qua 17 năm phát triển bền vững, Dat'sTravel đã ghi dấu ấn của mình với thông điệp",
+      "Trải qua 17 năm phát triển bền vững, Dat'sTRAVEL đã ghi dấu ấn của mình với thông điệp.",
     quote: "Nâng tầm trải nghiệm từng chuyến đi",
   },
   branch: {

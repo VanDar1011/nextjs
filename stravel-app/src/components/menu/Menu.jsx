@@ -14,7 +14,7 @@ export default function Menu() {
         <Link href={"/voucher"}>Ưu đãi</Link>
       </li>
       <li>
-        <Link href={"/service"}>Dich vụ</Link>
+        <Link href={"/service"}>Dịch vụ</Link>
       </li>
       <li>
         <Link href={"/library"}>Thư viện</Link>

@@ -2,7 +2,7 @@ import React from "react";
 import "./styleTitleSection.css";
 export default function TitleSection({ title }) {
   const arrTitle = title.split("");
-  console.log(arrTitle);
+  // console.log(arrTitle);
   return (
     <div
       className="title_section d-flex gap-2 lh-base d-flex justify-content-center"

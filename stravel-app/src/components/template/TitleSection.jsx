@@ -9,7 +9,7 @@ export default function TitleSection({ title }) {
       key={title}
     >
       {arrTitle.map((item, index) => {
-        if (item == " ") return <span className="px-3 py-2"></span>;
+        if (item == " ") return <span className="px-3 py-2" key={index}></span>;
         return (
           <span
             key={index}

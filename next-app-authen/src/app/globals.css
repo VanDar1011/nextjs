@@ -1,0 +1,11 @@
+@tailwind base;
+
+
+body {
+    background-color: inherit !important;
+    color: inherit !important;
+}
+
+.a {
+    cursor: pointer;
+}

@@ -1,7 +1,7 @@
 import React from "react";
 import { getSession } from "@/lib/session";
-import Logout from "@/component/menu/Logout";
-import Login from "@/component/menu/Login";
+import Logout from "@/component/Logout";
+import Login from "@/component/Login";
 export default async function ProfilePage() {
   const session = await getSession();
   console.log(session);
